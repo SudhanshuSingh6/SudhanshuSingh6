@@ -138,7 +138,7 @@ Installable CLI-based file indexing and full-text search engine built in Java.
 
 - GitHub: [https://github.com/SudhanshuSingh6](https://github.com/SudhanshuSingh6)
 - LinkedIn: [https://www.linkedin.com/in/sudhanshu-singh-1672b3225/](https://www.linkedin.com/in/sudhanshu-singh-1672b3225/)
-- Email: [sudhanshus026@gmail.com](mailto:sudhanshus026@gmail.com)
+- Email: [sudhanshu.singh.work@gmail.com](mailto:sudhanshu.singh.work@gmail.com)
 
 ---
 
