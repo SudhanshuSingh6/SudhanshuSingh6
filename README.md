@@ -8,12 +8,11 @@ Backend developer focused on building scalable systems with Java and Spring Boot
 
 ## 🚀 About Me
 
-* Building backend systems with Java + Spring Boot
+* Backend developer with a focus on Java and Spring Boot — occasionally Go
+* Built systems from scratch: real-time chat over raw WebSockets, a CLI search engine with a custom inverted index, and URL shorteners with Redis caching and analytics
 * Interested in system design, distributed systems, and search infrastructure
-* Working with PostgreSQL, Redis, Docker, and WebSockets
-* Currently building:
-
-  * **ChatFlow** → real-time messaging platform using raw WebSockets
+* On the frontend, I work with React and TypeScript to build clean, functional UIs
+* Have shipped full-stack projects end-to-end, from REST APIs to responsive frontends
 
 ---
 
@@ -138,6 +137,7 @@ Installable CLI-based file indexing and full-text search engine built in Java.
 
 ## 🌐 Connect With Me
 
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio1-eight-snowy-85.vercel.app/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sudhanshu-singh-1672b3225/)
 - [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=minutemailer\&logoColor=white)](mailto:sudhanshu.singh.work@gmail.com)
 
