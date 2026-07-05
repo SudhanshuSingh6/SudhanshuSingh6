@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanshuSingh6&label=Profile%20Views&color=0e75b6&style=flat)
+
 # Hi, I'm Sudhanshu 👋
 
 Backend developer focused on building scalable systems with Java and Spring Boot.
