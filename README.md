@@ -1,6 +1,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SudhanshuSingh6&label=Profile%20Views&color=0e75b6&style=flat)
 
+```
+ ____            _  _                     _            
+/ ___| _   _  __| || |__   __ _ _ __  ___| |__  _   _ 
+\___ \| | | |/ _` || '_ \ / _` | '_ \/ __| '_ \| | | |
+ ___) | |_| | (_| || | | | (_| | | | \__ \ | | | |_| |
+|____/ \__,_|\__,_||_| |_|\__,_|_| |_|___/_| |_|\__,_|
+```
+
 # Hi, I'm Sudhanshu 👋
+
+![whoami](whoami.svg)
 
 Backend developer focused on building scalable systems with Java and Spring Boot.
 
@@ -51,77 +61,9 @@ Backend developer focused on building scalable systems with Java and Spring Boot
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 🔗 URL Shortener
-
-Scalable URL shortening service with analytics.
-
-#### Features
-
-* Short URL generation
-* Redirect handling
-* Analytics tracking
-* Rate limiting
-* Public profile support
-* Custom aliases
-* Redis caching
-* JWT authentication with refresh tokens
-
-#### Tech
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Redis](https://img.shields.io/badge/Redis-D92C20?style=flat-square\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
----
-
-### 💬 ChatFlow
-
-Real-time chat application using raw WebSockets and JWT authentication.
-
-#### Features
-
-* Real-time messaging
-* JWT-authenticated WebSocket connections
-* Online/offline presence
-* Typing indicators
-* Friend list management
-* Group messaging
-* Conversation management
-* Rate limiting
-
-#### Tech
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square\&logo=JSON%20web%20tokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D92C20?style=flat-square\&logo=redis\&logoColor=white)
-
----
-
-### 🔎 FileSeek
-
-Installable CLI-based file indexing and full-text search engine built in Java.
-
-#### Features
-
-* Phrase, fuzzy, and prefix search
-* Positional inverted indexing with TF-IDF ranking
-* Incremental indexing with filesystem monitoring
-* Delta-encoded binary persistence + GZIP compression
-
-
-#### Tech
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
-![Picocli](https://img.shields.io/badge/Picocli-CLI-blue?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+Check out my work → [portfolio1-eight-snowy-85.vercel.app](https://portfolio1-eight-snowy-85.vercel.app/)
 
 ---
 
@@ -145,4 +87,15 @@ Installable CLI-based file indexing and full-text search engine built in Java.
 
 ## ⚡ Fun Fact
 
-I enjoy building backend systems from scratch and understanding how things work internally.
+It works on my machine. Shipping my machine is still on the roadmap.
+
+```
+ ________________________________
+< an overthinker writes good tests >
+ --------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
